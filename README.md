@@ -3,8 +3,6 @@
 
 *A lightweight WordPress e‑commerce plugin built for learning & experimentation.*
 
-![Plugin Banner](screenshots/banner.png) <!-- Replace with actual screenshot -->
-
 [![WordPress](https://img.shields.io/badge/Platform-WordPress-blue)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/Built%20With-PHP%207.4%2B-orange)](https://www.php.net/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
